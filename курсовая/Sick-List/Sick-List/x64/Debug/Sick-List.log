@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Sick-List.cpp
+d:\учёба\coursework\sick-list\sick-list\sick-list.cpp(72): warning C4101: f: неиспользованная локальная переменная
+  Sick-List.vcxproj -> D:\Учёба\CourseWork\Sick-List\x64\Debug\Sick-List.exe
+  Sick-List.vcxproj -> D:\Учёба\CourseWork\Sick-List\x64\Debug\Sick-List.pdb (Full PDB)

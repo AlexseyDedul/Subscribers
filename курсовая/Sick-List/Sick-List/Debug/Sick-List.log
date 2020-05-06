@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Sick-List.cpp
+c:\users\emokid\desktop\курсовая\sick-list\sick-list\sick-list.cpp(641): warning C4101: i: неиспользованная локальная переменная
+  Sick-List.vcxproj -> C:\Users\Emokid\Desktop\курсовая\Sick-List\Debug\Sick-List.exe
